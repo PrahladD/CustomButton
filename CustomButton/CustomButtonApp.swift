@@ -11,7 +11,7 @@ import SwiftUI
 struct CustomButtonApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          //  ContentView(data: .init(title: "Hello, World!", color: .blue, icon: nil, type: .default(.purple)))
         }
     }
 }
